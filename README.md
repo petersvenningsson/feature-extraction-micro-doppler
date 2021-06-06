@@ -7,3 +7,5 @@ Run
 
     python main.py
 to plot the spectrogram in *spectrogram.pickle* and print it's feature characterization.
+
+![](images/spectrogram.png)
